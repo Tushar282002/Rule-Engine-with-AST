@@ -123,7 +123,7 @@ npm install
 ```
 3. Install frontend dependencies:
 
-``bash
+```bash
 npm install
 ```
 4. Set up MongoDB and configure connection settings in the backend.

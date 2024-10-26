@@ -4,6 +4,12 @@
 ## Overview
 This project is a simple 3-tier rule engine application designed to determine user eligibility based on various attributes such as age, department, income, and spending. The application utilizes an Abstract Syntax Tree (AST) to represent conditional rules, allowing for dynamic creation, combination, and modification of these rules. The tech stack includes MongoDB for the backend and React with Tailwind CSS and Axios for the frontend.
 
+![WhatsApp Image 2024-10-25 at 10 45 50 PM](https://github.com/user-attachments/assets/f7a475c7-5021-46cc-848f-531d23cd1ac9)
+![WhatsApp Image 2024-10-25 at 10 46 22 PM](https://github.com/user-attachments/assets/9ced52bd-a54a-4662-9993-7a3cd21ee4a7)
+![WhatsApp Image 2024-10-26 at 10 16 30 AM](https://github.com/user-attachments/assets/07c75120-5b5f-4790-9758-e6e44e5ec2fb)
+![WhatsApp Image 2024-10-25 at 10 46 37 PM](https://github.com/user-attachments/assets/84d1bcf3-7bcc-4d2f-8744-5d897aa76fa4)
+
+
 ## Tech Stack
 
 - **Frontend:** React, Tailwind CSS, Axios 
@@ -136,12 +142,5 @@ npm start
 ```bash
 npm start
 ```
-
-![WhatsApp Image 2024-10-25 at 10 45 50 PM](https://github.com/user-attachments/assets/f7a475c7-5021-46cc-848f-531d23cd1ac9)
-![WhatsApp Image 2024-10-25 at 10 46 22 PM](https://github.com/user-attachments/assets/9ced52bd-a54a-4662-9993-7a3cd21ee4a7)
-![WhatsApp Image 2024-10-25 at 10 46 37 PM](https://github.com/user-attachments/assets/84d1bcf3-7bcc-4d2f-8744-5d897aa76fa4)
-![WhatsApp Image 2024-10-26 at 10 16 30 AM](https://github.com/user-attachments/assets/07c75120-5b5f-4790-9758-e6e44e5ec2fb)
-
-
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request

@@ -6,7 +6,7 @@ This project is a simple 3-tier rule engine application designed to determine us
 
 ## Tech Stack
 
-- **Frontend:** React, Tailwind CSS, Axios
+- **Frontend:** React, Tailwind CSS, Axios 
 - **Backend:** Node.js, Express.js, MongoDB
 - **Data Structure:** Abstract Syntax Tree (AST)
 
